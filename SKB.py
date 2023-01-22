@@ -1,4 +1,4 @@
 try:
  import data64
 except:
- import data1
+ import data32
