@@ -1,4 +1,4 @@
 try:
  import data64
-else:
+except:
  import data1
